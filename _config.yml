@@ -1,8 +1,8 @@
 # Site
 title: Taylor's Nonsensical Blog
-description: A place where I blog about lifestyle and technology of a generic male nerd.
+description: A place where I blog about lifestyle and technology of a generic nerd.
 url: https://taylorsmcclure.github.io/
-logo: halve.png                                       # Site logo
+logo: logo.png                                       # Site logo
 locale: en_US
 
 # Left Block Images
@@ -31,11 +31,11 @@ sass:
 # Social Links
 #email:             email
 #google.plus:        username
-twitter:            taylorsmcclure
+#twitter:            username
 #facebook:           username
 github:             taylorsmcclure
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:          taylorsmcclure
+linkedin:          taylormcclure
 #xing:              username
 #instagram:          username
 #lastfm:            username
