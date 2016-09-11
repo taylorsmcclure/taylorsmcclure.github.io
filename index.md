@@ -1,10 +1,10 @@
 ---
 layout: home
 ---
-# About Theme
+# Why am I here?
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+This is a personal blog based on [Jeykll](https://jekyllrb.com/docs/home/) and hosted on [Github Pages](https://pages.github.com/)
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
 
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+This theme is very creative and I am not. So obviously I forked it from [taylantali](http://taylantatli.me/Halve/halve-theme/). Check them out, they are very talented.
+
