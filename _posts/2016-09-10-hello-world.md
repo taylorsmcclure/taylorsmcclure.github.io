@@ -9,7 +9,7 @@ tags:
   - sarcasm
 ---
 
-### Hello.
+### Hello
 
 I want to talk a minute about how amazing the [Jeykll](https://jekyllrb.com/docs/home/){:target="_blank"} platform is. It combines the easy version controll features of Github Pages and gives you some amazing extended markdown features with its ruby gems. I've used blogging platforms in the past like WordPess *shudders* and it was good at that specific point in my life. Now that I am older and wiser, and diving head first into high-level languages like Ruby, Python, and Golang I think Jeykll is pretty awesome. The setup process for it could not have been easier either, it took me more or less about two hours to get everything setup correctly. It would have been much less if I wasn't so impatient and skip over some vital instructions. I think I will be doing a post regarding the setup later just to illustrate how easy it really is. 
 
