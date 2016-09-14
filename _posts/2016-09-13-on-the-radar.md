@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "09.12.16 On the Radar"
+title: "09.13.16 On the Radar"
 categories:
   - Tech
   - Lifestyle
